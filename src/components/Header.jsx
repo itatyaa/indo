@@ -1,4 +1,4 @@
-import profilePicture from '../assets/profile-picture.png'
+import profilePicture from '../assets/Chandra2.png'
 import { FaInstagram } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import '../styles/Header.css'
