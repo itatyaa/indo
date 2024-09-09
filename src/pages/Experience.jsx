@@ -49,9 +49,9 @@ function Experience() {
                         icon={<FaHtml5 />}
                     >
                         <h3 className="vertical-timeline-element-title">Learning X</h3>
-                        <h4 className="vertical-timeline-element-subtitle">FE</h4>
+                        <h4 className="vertical-timeline-element-subtitle">Full Stack</h4>
                         <p>
-                            Saya Membuat beberapa Projek seperti kalkulator, wishlist, fanbook.
+                            Saya Membuat beberapa Projek seperti kalkulator, wishlist, fanbook beserta database nya menggunakan mysql.
                         </p>
                     </VerticalTimelineElement>
                 </VerticalTimeline>
