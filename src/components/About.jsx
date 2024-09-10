@@ -12,6 +12,10 @@ function About() {
         <section id="about">
             <div className='wrapper'>
                 <h3>Tentang</h3>
+                
+                <h4>Kontak</h4>
+                <p>Email : chandraargajaya@gmail.com</p>
+                <p>No. Telp : 0856-4788-4233</p>
                 <h4>Bahasa pemrograman & Alat</h4>
                 <div className="skills">
                     <FaPhp /><FaHtml5 /><SiJavascript /><FaReact /><MdOutlineCss />
