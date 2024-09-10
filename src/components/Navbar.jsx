@@ -29,9 +29,9 @@ function Navbar() {
                 </button>
                 <div className={`menu ${statusTampil}`} onClick={tampilMenu}>
                     <ul>
-                        <li><HashLink to="/#portfolio">Portfolio</HashLink></li>
-                        <li><HashLink to="/#about">About</HashLink></li>
-                        <li><Link to="/experience">Experience</Link></li>
+                        <li><HashLink to="/#portfolio">Portofolio</HashLink></li>
+                        <li><HashLink to="/#about">Tentang</HashLink></li>
+                        <li><Link to="/experience">Pengalaman</Link></li>
                         <li><Link to="/cv">CV</Link></li>
                     </ul>
                 </div>

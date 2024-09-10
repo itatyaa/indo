@@ -11,8 +11,8 @@ function About() {
     return (
         <section id="about">
             <div className='wrapper'>
-                <h3>About</h3>
-                <h4>Programming Language & Tools</h4>
+                <h3>Tentang</h3>
+                <h4>Bahasa pemrograman & Alat</h4>
                 <div className="skills">
                     <FaPhp /><FaHtml5 /><SiJavascript /><FaReact /><MdOutlineCss />
                     <FaBootstrap /><RiTailwindCssFill />
