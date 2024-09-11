@@ -12,7 +12,7 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/portfolio/:id' element={<DetailPortfolio />} />
         <Route path='/page-not-found' element={<PageNotFound />} />
-        <Route path='/experience' element={<Experience />} />
+        <Route path='/pengalaman' element={<Experience />} />
         <Route path='/cv' element={<CV />} />
         <Route path='*' element={<PageNotFound />} />
       </Routes>

@@ -8,7 +8,6 @@ function Header() {
         <header>
             <div className="header-jumbotron">
                 <img src={profilePicture} />
-                <h3>Chandra Arga Jaya Alfarel</h3>
                 <p>Programmer</p>
                 <div className='socialMedia'>
                     <a href='https://www.instagram.com/chandra_alfarel27'><FaInstagram /></a>

@@ -16,7 +16,7 @@ function Experience() {
         <>
             <Navbar />
             <div className="wrapper">
-                <h1>Experience</h1>
+                <h1>Pengalaman</h1>
                 <VerticalTimeline>
                     <VerticalTimelineElement
                         className="vertical-timeline-element--work"
