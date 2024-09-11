@@ -6,6 +6,7 @@ function Header() {
     return (
         <header>
             <div className="header-jumbotron">
+                <h3>Chandra Arga Jaya Alfarel</h3>
                 <p>Programmer</p>
                 <div className='socialMedia'>
                     <a href='https://www.instagram.com/chandra_alfarel27'><FaInstagram /></a>
