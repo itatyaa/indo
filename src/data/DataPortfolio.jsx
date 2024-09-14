@@ -14,10 +14,16 @@ export const portfolioList = [
         skill: 'Saya membuat website fanbook, bertujuan agar user dapat mengunggah dan berbagi berbagai jenis konten seperti foto, video, fan art, dan artikel terkait topik atau idola yang mereka dukung'
     },
     {
-        id: '2',
-        title: 'Kalkulator',
-        image: kalkulator,
-        skill: 'Membuat kalkulator di scratch'
+        id: '5',
+        title: 'data siswa',
+        image: website,
+        skill: 'Membuat website data siswa menggunakan mysql dan laravel, website ini bertujuan untuk menyimpan data siswa'
+    },
+    {
+        id: '6',
+        title: 'wishlist',
+        image: wishlist,
+        skill: 'Membuat website wishlist untuk pengingat user menggunakan html css'
     },
     {
         id: '3',
@@ -32,21 +38,15 @@ export const portfolioList = [
         skill: 'Membuat space game di scratch'
     },
     {
-        id: '5',
-        title: 'data siswa',
-        image: website,
-        skill: 'Membuat website data siswa menggunakan mysql dan laravel, website ini bertujuan untuk menyimpan data siswa'
-    },
-    {
-        id: '6',
-        title: 'wishlist',
-        image: wishlist,
-        skill: 'Membuat website wishlist untuk pengingat user menggunakan html css'
-    },
-    {
         id: '7',
         title: 'e commerce',
         image: ecommerce,
         skill: 'Membuat website ecommerce menggunakan react js dan mysql sebagai database nya'
+    },
+    {
+        id: '2',
+        title: 'Kalkulator',
+        image: kalkulator,
+        skill: 'Membuat kalkulator di scratch'
     },
 ]

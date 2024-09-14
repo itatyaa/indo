@@ -15,7 +15,7 @@ function About() {
                 
                 <h4>Kontak</h4>
                 <p>Email : chandraargajaya@gmail.com</p>
-                <p>No. Telp : 0856-4788-4233</p>
+                <p>No. Telp : +62 856-4788-4233</p>
                 <h4>Bahasa pemrograman & Alat</h4>
                 <div className="skills">
                     <FaPhp /><FaHtml5 /><SiJavascript /><FaReact /><MdOutlineCss />

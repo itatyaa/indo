@@ -5,6 +5,10 @@
   padding: 20px;
 }
 
+.grid .item {
+  min-width: 250px;
+}
+
 .grid .item > a > img {
   width: 100%;
   height: auto;
@@ -17,8 +21,24 @@
   transform: scale(1.05);
 }
 
-@media only screen and (max-width: 1000px) {
+
+@media only screen and (max-width: 768px) {
   .grid {
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding: 20px 0;
+    scrollbar-width: none; 
+    -ms-overflow-style: none;
+  }
+
+  .grid::-webkit-scrollbar {
+    display: none; 
+  }
+
+  .grid .item {
+    flex: 0 0 auto;
+    min-width: 250px; 
+    scroll-snap-align: start;
   }
 }
