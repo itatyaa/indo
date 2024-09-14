@@ -27,7 +27,7 @@ function Experience() {
                         <h3 className="vertical-timeline-element-title">Curaweda</h3>
                         <h4 className="vertical-timeline-element-subtitle">QE</h4>
                         <p>
-                            Saya bekerja sama dengan curaweda untuk merancang sebuah aplikasi untuk presensi umum, saya sendiri mempunyai role sebagai QE
+                            Saya bekerjasama dengan curaweda, merancang sebuah aplikasi untuk presensi umum, saya sendiri mempunyai role sebagai QE(Quality Engineering)
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
